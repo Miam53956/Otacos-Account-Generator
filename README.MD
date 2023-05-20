@@ -9,6 +9,6 @@
 </p>
 
 Fonctionnalité:
--Creation de compte
--Complete le profile
--Date d'anniversaire au lendemain de la creation du compte donc bonus si ont achete quelques chose
+- Creation de compte
+- Complete le profile
+- Date d'anniversaire au lendemain de la creation du compte donc bonus si ont achete quelques chose

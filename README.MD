@@ -8,6 +8,8 @@
     <br><br>
 </p>
 
+_Cela est un vieux code, pour etre honete je le trouve horrible et mal optimisé mais bon, beaucoup de gens le voulait et mtn il est inutile_
+
 Fonctionnalité:
 - Creation de compte
 - Complete le profile
